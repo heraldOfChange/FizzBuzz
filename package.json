@@ -4,6 +4,7 @@
   "description": "TDD practice lesson 1",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest *test.js"
   },
   "keywords": [
